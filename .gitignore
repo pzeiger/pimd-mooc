@@ -131,8 +131,14 @@ dmypy.json
 # PIMD-MOCC specific things
 \#*\#
 RESTART
+
+0-getting_started/simulation.*
+0-example.json.gz
+
 1-md_sampling/input*.xml
 1-md_sampling/md-ts_*
 
-
+5-gle/md-gle_smart.*
+5-gle/input.xml
+5-gle/log
 
