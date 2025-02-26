@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PIMD-MOCC specific things
+\#*\#
+RESTART
+1-md_sampling/input*.xml
+1-md_sampling/md-ts_*
+
+
+
